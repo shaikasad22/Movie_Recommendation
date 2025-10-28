@@ -24,3 +24,13 @@ Uses the MovieLens dataset or any custom dataset containing movie titles, genres
 - Integration with a web UI for live user input
 - Incorporation of deep learning models for improved accuracy
 - Real-time recommendation API support
+
+---
+
+## 📬 Contact
+**Author:** Shaik Asad  
+**Role:** Data Analyst / Business Analyst  
+**Email:** shaikasad2567@gmail.com  
+**LinkedIn:** *https://www.linkedin.com/in/shaik-asad-82999a227/*  
+
+---
