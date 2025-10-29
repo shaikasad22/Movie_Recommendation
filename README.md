@@ -1,7 +1,7 @@
 # Movie Recommendation System using Python
 
 This project implements a movie recommendation system using Python. It leverages data science techniques and machine learning algorithms to suggest movies based on user preferences, ratings, and similarities between films. The system demonstrates both content-based and collaborative filtering approaches, providing personalized recommendations to users.
-
+  
 ## Features
 - Data preprocessing and cleaning using pandas and NumPy
 - Exploratory Data Analysis (EDA) with visual insights using matplotlib and seaborn
